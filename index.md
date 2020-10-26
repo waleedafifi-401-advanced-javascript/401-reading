@@ -36,3 +36,4 @@
 | Graphs| [Graphs](https://waleedafifi-401-advanced-javascript.github.io/401-reading/graphs)            |
 | Redux| [Redux](https://waleedafifi-401-advanced-javascript.github.io/401-reading/redux)            |
 | Redux reducer| [Redux reducer](https://waleedafifi-401-advanced-javascript.github.io/401-reading/redux-reducer)            |
+| Asynchronous Actions| [Asynchronous Actions](https://waleedafifi-401-advanced-javascript.github.io/401-reading/asynchronous-actions)            |
